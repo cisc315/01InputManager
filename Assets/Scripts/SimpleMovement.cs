@@ -34,6 +34,7 @@ public class SimpleMovement : MonoBehaviour {
 			velX = 0;
 		}
 
+		//change position with new x value
 		body2d.velocity = new Vector2 (velX, body2d.velocity.y);
 	
 	}
