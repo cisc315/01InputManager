@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+﻿/*
+ * Simple Movement script
+ *
+ */
+
+using UnityEngine;
 using System.Collections;
 
 public class SimpleMovement : MonoBehaviour {
